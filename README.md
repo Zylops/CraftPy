@@ -1,6 +1,8 @@
 # CraftPy
 A package that allows to use functions to control minecraft built on pyautogui.
 
+Use `pip install CraftPy` to install the module.
+
 To make an instance of the player class, use:
 
     CraftPy.Player({version_number}, {Cheats (True if enabled)})
